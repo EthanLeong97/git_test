@@ -1,2 +1,6 @@
 # git_test
-first repo
+first repo Hello odin!
+
+not saved
+
+why no add
